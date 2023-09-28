@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{864ECC34-A777-43BB-9A48-D8FD89F9D7F1}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HTTP_Server/Server.cs">
+    <Files>
+      <File FileName="HTTP_Server/Appsettings.cs" Line="8" Column="32" />
+      <File FileName="HTTP_Server/static/index.html" Line="4" Column="27" />
+      <File FileName="HTTP_Server/static/content.css" Line="1" Column="1" />
+      <File FileName="HTTP_Server/static/header.css" Line="12" Column="2" />
+      <File FileName="HTTP_Server/static/side_bar.css" Line="1" Column="14" />
+      <File FileName="HTTP_Server/Program.cs" Line="22" Column="1" />
+      <File FileName="HTTP_Server/Server.cs" Line="36" Column="41" />
+      <File FileName="HTTP_Server/static/BattleNet/index.html" Line="62" Column="24" />
+      <File FileName="HTTP_Server/static/BattleNet/Styles/battle.css" Line="1" Column="1" />
+      <File FileName="HTTP_Server/Config.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HTTP_Server" expanded="True">
+            <Node name="HTTP_Server" expanded="True">
+              <Node name="Server.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.HTTP__Server PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

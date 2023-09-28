@@ -1,8 +1,181 @@
 ﻿<html>
 <head>
     <meta charset="utf-8" />
-    <link rel ="stylesheet" href="/Users/davidvasilev/Desktop/Google/google.css">
-     <title>Google</title>
+    <title>Google</title>
+    <style>
+        body {
+            background-color: #202124;
+        }
+
+        #header {
+            display: flex;
+            justify-content: flex-end;
+            flex-direction: row;
+            flex-wrap: nowrap;
+            align-content: space-around;
+            margin-right: -18px;
+        }
+
+        #mail {
+            margin-right: 1%;
+            margin-top: 14px;
+        }
+
+        #pictures {
+            margin-right: 1%;
+            margin-top: 14px;
+        }
+
+        #apps {
+            margin-right: 1%;
+            margin-left: 10px;
+            margin-top: 12px;
+        }
+
+        #account {
+            margin-right: 2%;
+            margin-top: 4px;
+        }
+
+        #header a {
+            color: white;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: small;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        #google {
+            display: flex;
+            justify-content: center;
+        }
+
+        #main {
+            display: flex;
+            align-items: center;
+            flex-direction: column;
+            margin-top: 180px;
+        }
+
+        #search_box {
+            display: flex;
+            flex-direction: row-reverse;
+            align-items: center;
+            border: 1px solid #5f6368;
+            height: 48px;
+            width: 584px;
+            border-radius: 30px 30px 30px 30px;
+            justify-content: flex-end;
+            margin-top: 24px;
+        }
+
+        #key_img {
+            margin-left: 40px;
+            margin-right: 12px;
+        }
+
+        #srch {
+            margin-left: 10px;
+            margin-right: 10px;
+        }
+
+        #country {
+            background: #141414;
+            margin-top: 230px;
+            height: 50px;
+            width: 1440px;
+            border-block-end: 1px solid #5f6368;
+        }
+
+        #rus {
+            display: flex;
+            align-content: center;
+            font-family: Arial, Helvetica, sans-serif;
+            color: #999da2;
+            padding: 15px 30px;
+        }
+
+        #inpt {
+            background: #202124;
+            font-size: 16px;
+            outline: none;
+            border: none;
+            color: white;
+        }
+
+            #inpt:hover {
+                color: white;
+            }
+
+        #buttons {
+            margin-top: 10px;
+            display: flex;
+            flex-direction: row;
+        }
+
+        .btn {
+            background-color: #303134;
+            border: 1px solid #303134;
+            border-radius: 4px;
+            color: white;
+            font-family: arial,sans-serif;
+            font-size: 14px;
+            margin: 11px 4px;
+            padding: 0 16px;
+            line-height: 27px;
+            height: 36px;
+            min-width: 54px;
+            text-align: center;
+            cursor: pointer;
+        }
+
+        #eco {
+            height: 40px;
+            width: 1440px;
+            background: #141414;
+        }
+
+            #eco a {
+                color: #9aa0a6;
+                text-decoration: none;
+                position: relative;
+                top: 10px;
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: small;
+            }
+
+            #eco #leaf {
+                position: relative;
+                top: 10px;
+                margin-left: 500px;
+            }
+
+        #footer {
+            background: #141414;
+            height: 40px;
+            width: 1440px;
+            display: flex;
+            flex-direction: row;
+        }
+
+            #footer a {
+                color: #9aa0a6;
+                text-decoration: none;
+                position: relative;
+                top: 10px;
+                font-family: Arial, Helvetica, sans-serif;
+                margin-right: 30px;
+                margin-left: 10px;
+                font-size: small;
+            }
+
+        .f_2 {
+            margin-left: 520px;
+        }
+    </style>
 </head>
 <body>
     <div id="header">
@@ -15,26 +188,27 @@
         </div>
 
         <div id="apps">
-            <img src="/Users/davidvasilev/Desktop/Google/images/apps.png" width="22" height="20"/>
+            <img src="/Users/davidvasilev/Desktop/ORIS_D.V/Homework_1/Google/images/apps.png" width="22" height="20" />
         </div>
 
         <div id="account">
-            <img src="/Users/davidvasilev/Desktop/Google/images/Снимок экрана 2023-09-05 в 14.13.15.png" width="36" height="36" />
+            <img src="/Users/davidvasilev/Desktop/ORIS_D.V/Homework_1/Google/images/account.png" width="36" height="36" />
         </div>
     </div>
 
     <div id="main">
         <div>
-            <img id="google" height="92" width="272" src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_light_color_272x92dp.png"/>
+            <img id="google" height="92" width="272" src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_light_color_272x92dp.png" />
         </div>
 
         <div id="search_box">
-            <img id="key_img" src="/Users/davidvasilev/Desktop/Google/images/keyph.png" height="44" width="84" />
-            <input id="inpt"  size="40" formmethod="get" />
-            <img id="srch" src="/Users/davidvasilev/Desktop/Google/images/srch.png" height="34" width="34" />
+            <img id="key_img" src="/Users/davidvasilev/Desktop/ORIS_D.V/Homework_1/Google/images/keyph.png" height="44" width="84" />
+            <input id="inpt" size="40" formmethod="get" />
+            <img id="srch" src="/Users/davidvasilev/Desktop/ORIS_D.V/Homework_1/Google/images/srch.png" height="34" width="34" />
         </div>
         <div id="buttons">
-            <img id="btns" src="/Users/davidvasilev/Desktop/Google/images/Снимок экрана 2023-09-08 в 22.57.13.png" height="56" width="320"/>
+            <button class="btn">Поиск в Google</button>
+            <button class="btn">Мне повезет!</button>
         </div>
     </div>
 
@@ -43,18 +217,23 @@
     </div>
 
     <div id="eco">
-       <img id="leaf" src="/Users/davidvasilev/Desktop/Google/images/leaf.png" height="12" width="12" />
-       <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=webhp&cd=&ved=0ahUKEwiA6NWPkpmBAxUFJBAIHRWUBdQQiM8HCBU&url=https%3A%2F%2Fsustainability.google%2Fintl%2Fru%2Fcarbon-free%2F%3Futm_source%3Dgooglehpfooter%26utm_medium%3Dhousepromos%26utm_campaign%3Dbottom-footer%26utm_content%3D&usg=AOvVaw3E7bJK9lSvtsVnD7ubvsZr&opi=89978449">Наше третье десятилетие борьбы с изменением климата</a>
+        <img id="leaf" src="/Users/davidvasilev/Desktop/ORIS_D.V/Homework_1/Google/images/leaf.png" height="12" width="12" />
+        <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=webhp&cd=&ved=0ahUKEwiA6NWPkpmBAxUFJBAIHRWUBdQQiM8HCBU&url=https%3A%2F%2Fsustainability.google%2Fintl%2Fru%2Fcarbon-free%2F%3Futm_source%3Dgooglehpfooter%26utm_medium%3Dhousepromos%26utm_campaign%3Dbottom-footer%26utm_content%3D&usg=AOvVaw3E7bJK9lSvtsVnD7ubvsZr&opi=89978449">Наше третье десятилетие борьбы с изменением климата</a>
     </div>
 
     <div id="footer">
-        <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=webhp&cd=&cad=rja&uact=8&ved=0ahUKEwjP3o6-mpmBAxWMFhAIHdE0AJoQkNQCCBI&url=https%3A%2F%2Fabout.google%2F%3Futm_source%3Dgoogle-RU%26utm_medium%3Dreferral%26utm_campaign%3Dhp-footer%26fg%3D1&usg=AOvVaw0KKZtJ-II9rx76DcreIsfT&opi=89978449">Всё о Google</a>
-        <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=webhp&cd=&cad=rja&uact=8&ved=0ahUKEwjP3o6-mpmBAxWMFhAIHdE0AJoQkdQCCBM&url=https%3A%2F%2Fwww.google.com%2Fintl%2Fru_ru%2Fads%2F%3Fsubid%3Dww-ww-et-g-awa-a-g_hpafoot1_1!o2%26utm_source%3Dgoogle.com%26utm_medium%3Dreferral%26utm_campaign%3Dgoogle_hpafooter%26fg%3D1&usg=AOvVaw3b4E31IJvQuRkGQe2OBqIX&opi=89978449">Реклама</a>
-        <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=webhp&cd=&cad=rja&uact=8&ved=0ahUKEwjP3o6-mpmBAxWMFhAIHdE0AJoQktQCCBQ&url=https%3A%2F%2Fwww.google.com%2Fservices%2F%3Fsubid%3Dww-ww-et-g-awa-a-g_hpbfoot1_1!o2%26utm_source%3Dgoogle.com%26utm_medium%3Dreferral%26utm_campaign%3Dgoogle_hpbfooter%26fg%3D1&usg=AOvVaw2SJ4zwRVXKyZr53qG9dm4K&opi=89978449">Для бизнеса</a>
-        <a href="https://google.com/search/howsearchworks/?fg=1" id="g">Как работает Google Поиск</a>
-        <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=webhp&cd=&cad=rja&uact=8&ved=0ahUKEwjP3o6-mpmBAxWMFhAIHdE0AJoQ8awCCBY&url=https%3A%2F%2Fpolicies.google.com%2Fprivacy%3Fhl%3Dru%26fg%3D1&usg=AOvVaw1iConXurZvoBP_JBfXBmGc&opi=89978449">Конфиденциальность</a>
-        <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=webhp&cd=&cad=rja&uact=8&ved=0ahUKEwjP3o6-mpmBAxWMFhAIHdE0AJoQ8qwCCBc&url=https%3A%2F%2Fpolicies.google.com%2Fterms%3Fhl%3Dru%26fg%3D1&usg=AOvVaw32MzNdyCvDk7b60uCnrD8u&opi=89978449">Условия</a>
-        <a>Настройки</a>
+        <div class="f_1">
+            <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=webhp&cd=&cad=rja&uact=8&ved=0ahUKEwjP3o6-mpmBAxWMFhAIHdE0AJoQkNQCCBI&url=https%3A%2F%2Fabout.google%2F%3Futm_source%3Dgoogle-RU%26utm_medium%3Dreferral%26utm_campaign%3Dhp-footer%26fg%3D1&usg=AOvVaw0KKZtJ-II9rx76DcreIsfT&opi=89978449">Всё о Google</a>
+            <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=webhp&cd=&cad=rja&uact=8&ved=0ahUKEwjP3o6-mpmBAxWMFhAIHdE0AJoQkdQCCBM&url=https%3A%2F%2Fwww.google.com%2Fintl%2Fru_ru%2Fads%2F%3Fsubid%3Dww-ww-et-g-awa-a-g_hpafoot1_1!o2%26utm_source%3Dgoogle.com%26utm_medium%3Dreferral%26utm_campaign%3Dgoogle_hpafooter%26fg%3D1&usg=AOvVaw3b4E31IJvQuRkGQe2OBqIX&opi=89978449">Реклама</a>
+            <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=webhp&cd=&cad=rja&uact=8&ved=0ahUKEwjP3o6-mpmBAxWMFhAIHdE0AJoQktQCCBQ&url=https%3A%2F%2Fwww.google.com%2Fservices%2F%3Fsubid%3Dww-ww-et-g-awa-a-g_hpbfoot1_1!o2%26utm_source%3Dgoogle.com%26utm_medium%3Dreferral%26utm_campaign%3Dgoogle_hpbfooter%26fg%3D1&usg=AOvVaw2SJ4zwRVXKyZr53qG9dm4K&opi=89978449">Для бизнеса</a>
+            <a href="https://google.com/search/howsearchworks/?fg=1" id="g">Как работает Google Поиск</a>
+        </div>
+        <div class="f_2">
+            <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=webhp&cd=&cad=rja&uact=8&ved=0ahUKEwjP3o6-mpmBAxWMFhAIHdE0AJoQ8awCCBY&url=https%3A%2F%2Fpolicies.google.com%2Fprivacy%3Fhl%3Dru%26fg%3D1&usg=AOvVaw1iConXurZvoBP_JBfXBmGc&opi=89978449">Конфиденциальность</a>
+            <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=webhp&cd=&cad=rja&uact=8&ved=0ahUKEwjP3o6-mpmBAxWMFhAIHdE0AJoQ8qwCCBc&url=https%3A%2F%2Fpolicies.google.com%2Fterms%3Fhl%3Dru%26fg%3D1&usg=AOvVaw32MzNdyCvDk7b60uCnrD8u&opi=89978449">Условия</a>
+            <a>Настройки</a>
+        </div>
     </div>
 </body>
 </html>
+
