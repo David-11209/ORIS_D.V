@@ -1,27 +1,21 @@
 ﻿<Properties StartupConfiguration="{E42066E8-AD69-488A-8031-B32E6A6C3E7A}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Server.cs" Line="43" Column="37" IsPinned="True" />
-      <File FileName="../../../../../Downloads/homework_4 — копия/HttpServer/HttpServer/server.cs" Line="161" Column="32" />
+      <File FileName="Server.cs" Line="88" Column="56" IsPinned="True" />
       <File FileName="Config.cs" Line="16" Column="10" />
       <File FileName="Settings.cs" Line="13" Column="21" />
       <File FileName="Program.cs" Line="22" Column="1" />
-      <File FileName="../../../../../Downloads/homework_4 — копия/HttpServer/HttpServer/Config/serverConfig.cs" Line="1" Column="1" />
-      <File FileName="bin/Debug/net7.0/static/BattleNet/index.html" Line="64" Column="51" />
-      <File FileName="../../../../../Downloads/homework_4 — копия/HttpServer/HttpServer/bin/Debug/net7.0/static/battlenet/index.html" Line="37" Column="36" />
-      <File FileName="../../../../../Downloads/homework_4 — копия/HttpServer/HttpServer/bin/Debug/net7.0/appsettings.json" Line="5" Column="36" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="HTTP_Server" expanded="True">
             <Node name="HTTP_Server">
-              <Node name="Dependencies" expanded="True">
-                <Node name="FrameworkReferences" expanded="True" />
-              </Node>
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -30,7 +24,5 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.HTTP__Server PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

