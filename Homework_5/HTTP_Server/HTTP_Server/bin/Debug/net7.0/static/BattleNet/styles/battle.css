@@ -1,0 +1,210 @@
+﻿body {
+    display: flex;
+    justify-content: center;
+    background-color: #15171E;
+    font-family: "Object Sans", "Arial", "Helvetica", "Segoe UI Symbol", "Segoe MDL2 Assets", sans-serif;
+    font-size: 16px;
+    flex-direction:column;
+    line-height: 24px;
+    align-items:center;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-content:center;
+    flex-direction: column;
+    max-width: 400px;
+}
+.logo {
+    height: 56px;
+    width:300px;
+    margin-top:40px;
+}
+#login-header {
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 36px;
+    margin-left: 60px;
+    color:white;
+    margin-top:60px;
+}
+.icons {
+    width: 22px;
+    height: 22px;
+    padding: 13px;
+    border-radius: 1px;
+    margin: 12px;
+}
+.blue{
+    background-color:blue;
+}
+.green {
+    background-color: green;
+}
+.red {
+    background-color: red;
+}
+.authorization_options_1{
+    width: 240px;
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-left:70px;
+    margin-top:30px;
+}
+.authorization_options_2 {
+    width: 300px;
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-left: 38px;
+}
+button {
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    border-radius: 4px;
+    background-color: white;
+    border: none;
+    width: 48px;
+    height: 48px;
+}
+.logo{
+    margin-left:40px;
+}
+.other_authorization_options {
+    color: rgba(255, 255, 255, 0.6);
+    font-size: 14px;
+    height: 21px;
+    font-weight: 700;
+    margin: 40px 0px 24px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: "Noto Sans", "Object Sans", sans-serif;
+}
+
+.other_authorization_options span {
+    display: inline-block;
+    width: 124px;
+    white-space: nowrap;
+    height: 21px;
+}
+
+.other_authorization_options::before {
+    background-color: rgba(255, 255, 255, 0.18);
+    width: 500px;
+    content: "";
+    height: 1px;
+    margin-right: 20px;
+    right: 100%;
+}
+.other_authorization_options::after {
+    background-color: rgba(255, 255, 255, 0.18);
+    width: 500px;
+    content: "";
+    height: 1px;
+    margin-left: 20px;
+    right: 100%;
+}
+.mail_phone {
+    vertical-align: middle;
+    height: 40px;
+    padding: 0 12px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    font-size: 16px;
+    line-height: 24px;
+    border: 1px solid rgba(255, 255, 255, 0.36);
+    background-color: #171920;
+    color: #ffffff;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    border-radius: 3px;
+    display:flex;
+    align-items:center;
+}
+.password {
+    vertical-align: middle;
+    height: 40px;
+    padding: 0 12px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    font-size: 16px;
+    line-height: 24px;
+    border: 1px solid rgba(255, 255, 255, 0.36);
+    background-color: #171920;
+    color: #ffffff;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin-top: 16px;
+    border-radius: 3px;
+    display: flex;
+    align-items: center;
+}
+input {
+    background-color: #171920;
+    border: none;
+    color: white;
+    font-size: 20px;
+    width: 370px;
+    outline: none;
+}
+.eye{
+    width:40px;
+    height:32px;
+}
+.log_in {
+    background-color: #0074e0;
+    color: white;
+    vertical-align: middle;
+    height: 40px;
+    width: 400px;
+    font-size: 18px;
+    font-family: inherit;
+    margin-top: 40px;
+}
+.a_1 {
+    margin-top: 20px;
+    font-weight: 700;
+    text-decoration: none;
+    font-family: "Noto Sans", "Georgia", "Times New Roman", "Times", "Segoe UI Symbol", "Segoe MDL2 Assets", sans-serif;
+    width: 400px;
+    padding-right: 5px;
+    text-align: center;
+    line-height: 24px;
+    color: #0074e0;
+}
+.a_2 {
+    margin-top: 20px;
+    font-weight: 700;
+    text-decoration: none;
+    font-family: "Noto Sans", "Georgia", "Times New Roman", "Times", "Segoe UI Symbol", "Segoe MDL2 Assets", sans-serif;
+    width: 400px;
+    color: #0074e0;
+    padding-right: 5px;
+    text-align: center;
+    line-height: 24px;
+    margin-bottom:60px;
+}
+.spn {
+    color: rgba(255, 255, 255, 0.3);
+}
+.footer {
+    width: 650px;
+    text-align: center;
+
+}
+.links {
+    color: #a1a1a1;
+    font-size: 12px;
+    font-family: "Noto Sans", "Georgia", "Times New Roman", "Times", "Segoe UI Symbol", "Segoe MDL2 Assets", sans-serif;
+    text-decoration: none;
+
+}
+.bottom {
+    color: #545454;
+    margin-bottom: 20px;
+}

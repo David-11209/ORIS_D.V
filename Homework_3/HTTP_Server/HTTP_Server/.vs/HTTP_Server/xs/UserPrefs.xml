@@ -1,20 +1,22 @@
 ﻿<Properties StartupConfiguration="{E42066E8-AD69-488A-8031-B32E6A6C3E7A}|Default">
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.HTTP__Server PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="bin/Debug/net7.0/static/Google/index.html">
     <Files>
-      <File FileName="Server.cs" Line="88" Column="56" IsPinned="True" />
-      <File FileName="Config.cs" Line="16" Column="10" />
-      <File FileName="Settings.cs" Line="13" Column="21" />
-      <File FileName="Program.cs" Line="22" Column="1" />
+      <File FileName="Server.cs" Line="78" Column="58" IsPinned="True" />
+      <File FileName="Config.cs" Line="19" Column="1" />
+      <File FileName="Settings.cs" Line="6" Column="1" />
+      <File FileName="Program.cs" Line="8" Column="1" />
+      <File FileName="bin/Debug/net7.0/static/Google/index.html" Line="26" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="HTTP_Server" expanded="True">
+          <Node name="HTTP_Server">
             <Node name="HTTP_Server">
               <Node name="Program.cs" selected="True" />
             </Node>
@@ -23,6 +25,5 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.HTTP__Server PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

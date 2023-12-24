@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{E42066E8-AD69-488A-8031-B32E6A6C3E7A}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.HTTP__Server PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Server.cs">
+    <Files>
+      <File FileName="Server.cs" Line="90" Column="14" IsPinned="True" />
+      <File FileName="Config.cs" Line="8" Column="42" />
+      <File FileName="Settings.cs" Line="6" Column="1" />
+      <File FileName="Program.cs" Line="16" Column="1" />
+      <File FileName="../../../Homework_5/HTTP_Server/HTTP_Server/Server.cs" Line="38" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HTTP_Server" expanded="True">
+            <Node name="HTTP_Server">
+              <Node name="Server.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

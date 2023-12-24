@@ -1,0 +1,160 @@
+﻿body {
+    background-color: #202124;
+}
+#header {
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: space-around;
+    margin-right: -18px;
+}
+#mail{
+    margin-right: 1%;
+    margin-top: 14px;
+}
+
+#pictures {
+    margin-right: 1%;
+    margin-top: 14px;
+}
+
+#apps {
+    margin-right: 1%;
+    margin-left: 10px;
+    margin-top: 12px;
+}
+#account {
+    margin-right: 2%;
+    margin-top: 4px;
+}
+#header a {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+#google{
+    display: flex;
+    justify-content: center;
+
+}
+#main {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 180px;
+}
+#search_box {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    border: 1px solid #5f6368;
+    height: 48px;
+    width: 584px;
+    border-radius: 30px 30px 30px 30px;
+    justify-content: flex-end;
+    margin-top: 24px;
+}
+#key_img {
+    margin-left: 40px;
+    margin-right: 12px;
+}
+#srch{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#country {
+    background: #141414;
+    margin-top: 230px;
+    height: 50px;
+    width: 1440px;
+    border-block-end: 1px solid #5f6368;
+}
+
+#rus {
+    display:flex;
+    align-content:center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #999da2;
+    padding: 15px 30px;
+}
+
+#inpt {
+    background: #202124;
+    font-size: 16px;
+    outline: none;
+    border: none;
+    color: white;
+}
+
+#inpt:hover{
+    color:white;
+}
+
+#buttons {
+    margin-top: 10px;
+   
+    display: flex;
+    flex-direction: row;
+}
+.btn {
+    background-color: #303134;
+    border: 1px solid #303134;
+    border-radius: 4px;
+    color: white;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+}
+#eco {
+    height: 40px;
+    width: 1440px;
+    background: #141414;
+}  
+
+#eco a {
+    color: #9aa0a6;
+    text-decoration: none;
+    position: relative;
+    top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:small;
+}
+
+#eco #leaf{
+    position: relative;
+    top: 10px;
+    margin-left:500px;
+}
+
+#footer {
+    background: #141414;
+    height: 40px;
+    width: 1440px;
+    display:flex;
+    flex-direction:row;
+}
+
+#footer a{
+    color: #9aa0a6;
+    text-decoration: none;
+    position: relative;
+    top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right:30px;
+    margin-left:10px;
+    font-size:small;
+}
+.f_2{
+    margin-left:520px;
+}

