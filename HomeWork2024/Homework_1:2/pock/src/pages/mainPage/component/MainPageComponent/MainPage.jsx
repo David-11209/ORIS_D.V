@@ -8,6 +8,7 @@ const MainPage = () => {
   const [page, setPage] = useState(1);
   const [totalCount, setTotalCount] = useState();
   const [fetchState, setFetchState] = useState(false);
+  const [canFetch, setCanFetch] = useState(true);
 
   const fetchPokemons = async (limit) => {
     try {
@@ -25,27 +26,37 @@ const MainPage = () => {
     }
   };
 
-  const filterData = useCallback(() => {
-    if (searchValue.length > 0) {
-      const filteredData = pokemonData.filter(pokemon => {
-        return pokemon.name.includes(searchValue.toLowerCase());
-      });
-      return filteredData;
-    } else {
-      return pokemonData;
-    }
-  }, [searchValue, pokemonData]);
-  
-  useEffect(() => {
-    const initialFetch = async () => {
+  const initialFetch = useCallback(async () => {
       setFetchState(true);
       const response = await fetchPokemons(page * 40);
       setPokemonData(response?.results ?? []);
       setTotalCount(response?.count);
       setFetchState(false);
+  }, [page])
+
+
+  const onSearchHandle = async () => {
+    setCanFetch(!searchValue.length)
+    if (searchValue.length > 0) {
+      setPokemonData([]);
+      const response = await fetchPokemons(1300);
+      const filteredData = response?.results.filter(pokemon => {
+        return pokemon.name.includes(searchValue.toLowerCase());
+      });
+      setPokemonData(filteredData ?? [])
+    } else {
+      initialFetch()
     }
-    initialFetch()
-  }, [page]);
+  }
+
+  useEffect(() => {
+
+    if (canFetch) {
+      initialFetch();
+    }
+  }, [page, canFetch, initialFetch]);
+
+
 
   useEffect(() => {
     const handleScroll = () => {
@@ -70,9 +81,10 @@ const MainPage = () => {
         title="Who you are looking for?"
         searchValue={searchValue}
         onChangeSearch={setSearchValue}
+        onSearch={onSearchHandle}
       />
       <PageLayout
-        data={filterData()}
+        data={pokemonData}
       />
     </>
   )

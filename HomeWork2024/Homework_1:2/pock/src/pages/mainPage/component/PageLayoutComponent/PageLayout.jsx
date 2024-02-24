@@ -6,11 +6,10 @@ const PageLayout = ({data}) => {
   return (
     <div className="LayoutContainer">
       {data.length
-      ? (data.map((pokemon, index) => (
+      ? (data.map((pokemon) => (
         <Card
-          key={index}
+          key={pokemon.id}
           pokemon={pokemon}
-          id={(index+1).toString()}
         />
       )))
       : 'Покеманов не будэт'}

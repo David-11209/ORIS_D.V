@@ -35,7 +35,7 @@ function formatNumber(num) {
 }
 
 
-const Card = ({ pokemon, id }) => {
+const Card = ({ pokemon }) => {
   console.warn(pokemon);
   const [pokemonData, setPokemonData] = useState();
 
@@ -58,12 +58,12 @@ const Card = ({ pokemon, id }) => {
 
   return (
     <Link to = {`/pokemon/${pokemon.name}`}>
-      <div className="PokemonContainer" key={id}>
+      <div className="PokemonContainer" key={pokemonData?.id}>
         {pokemonData ? (
           <>
             <div className="CardTitleContainer">
               <p className="CardTitle">{capitalizeFirstLetter(pokemon.name)}</p>
-              <p style={{color: "black"}}>{`#${formatNumber(id)}`}</p>
+              <p style={{color: "black"}}>{`#${formatNumber(pokemonData?.id)}`}</p>
             </div>
 
             <img
