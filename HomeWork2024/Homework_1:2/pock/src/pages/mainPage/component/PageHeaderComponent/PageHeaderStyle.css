@@ -1,0 +1,121 @@
+.HeaderContainer {
+  background-color: blue;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 36px 0;
+}
+
+.Title {
+  padding: 24px 12px;
+  color: white;
+  font-size: 32px;
+}
+
+.HeaderContainer {
+  position: relative;
+}
+
+.Pokeball {
+  position: absolute;
+  height: 400px;
+  width: 400px;
+  top: -100px;
+  right: -100px;
+  opacity: 0.5;
+}
+
+@media only screen and (max-width: 320px) {
+  .Pokeball {
+    display: none;
+  }
+
+  .Title {
+    font-size: 24px;
+    padding: 12px 6px;
+  }
+}
+
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+  .Pokeball {
+    height: 200px;
+    width: 200px;
+    top: -60px;
+    right: -60px;
+  }
+
+  .Title {
+    font-size: 28px;
+    width: 50%;
+    align-self: flex-start;
+    padding: 12px 6px;
+    margin: 16px;
+  }
+
+  .HeaderContainer {
+    padding: 0;
+  }
+}
+
+@media only screen and (min-width: 480px) and (max-width: 768px) {
+  .Pokeball {
+    height: 250px;
+    width: 250px;
+    top: -75px;
+    right: -75px;
+  }
+
+  .Title {
+    font-size: 30px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  .Pokeball {
+    height: 300px;
+    width: 300px;
+    top: -75px;
+    right: -75px;
+  }
+}
+
+@media only screen and (min-width: 1024px) and (max-width: 1280px) {
+  .Pokeball {
+    height: 330px;
+    width: 330px;
+    top: -100px;
+    right: -100px;
+  }
+
+  .HeaderContainer {
+    padding: 0;
+  }
+}
+
+@media only screen and (min-width: 1280px) and (max-width: 1600px) {
+  .Pokeball {
+    height: 400px;
+    width: 400px;
+    top: -100px;
+    right: -100px;
+  }
+}
+
+@media only screen and (min-width: 1600px) and (max-width: 1920px) {
+  .Pokeball {
+    height: 400px;
+    width: 400px;
+    top: -100px;
+    right: -100px;
+  }
+}
+
+@media only screen and (min-width: 1920px) {
+  .Pokeball {
+    height: 400px;
+    width: 400px;
+    top: -100px;
+    right: -100px;
+  }
+}

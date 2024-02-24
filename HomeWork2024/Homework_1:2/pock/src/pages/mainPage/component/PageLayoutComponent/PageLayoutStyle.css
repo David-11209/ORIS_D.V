@@ -1,0 +1,21 @@
+.LayoutContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: 36px 0;
+  gap: 24px;
+}
+
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+  .LayoutContainer {
+    display: grid;
+    gap: 6px;
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .LayoutContainer a {
+    width: 100%;
+  }
+}
