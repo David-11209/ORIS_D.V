@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1RQTLl919PGtCyLyfwAoWCodGAG9tDzu6c6k/npseTdeSIfkjgqTNrm66R3m3e5ngz6Nx7ojyXnCyRmZzClynA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\irina\\source\\repos\\TeamHost\\TeamHost2.Shared\\TeamHost2.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\irina\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\irina\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\irina\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

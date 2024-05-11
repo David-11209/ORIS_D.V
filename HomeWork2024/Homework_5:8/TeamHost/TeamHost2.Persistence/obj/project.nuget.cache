@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "1T3cznmiJ4ytckpozH/O9Y6MUks00AZ7II9MPwNiDp8NOVY1ydXLC6uJG92pRUmWHuBv5VctBMWRrcBZl7a46g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\irina\\source\\repos\\TeamHost\\TeamHost2.Persistence\\TeamHost2.Persistence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\irina\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\irina\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\irina\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\irina\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\irina\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\irina\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

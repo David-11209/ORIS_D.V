@@ -1,0 +1,41 @@
+.leftContainer {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    align-self: flex-start;
+    height: 100%;
+}
+
+.Namer * {
+    margin: 0;
+    color: gray;
+}
+
+.Namer h1 {
+    margin-bottom: 50px;
+    color: blue;
+    font-size: 32px;
+    font-weight: 400;
+}
+
+@media only screen and (max-width: 320px) {
+    .Namer h1 {
+        margin-bottom: 0px;
+        font-size: 28px;
+    }
+
+    .leftContainer {
+        margin-top: 15px;
+    }
+}
+
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+    .Namer h1 {
+        margin-bottom: 0px;
+        font-size: 28px;
+    }
+
+    .leftContainer {
+        margin-top: 15px;
+    }
+}

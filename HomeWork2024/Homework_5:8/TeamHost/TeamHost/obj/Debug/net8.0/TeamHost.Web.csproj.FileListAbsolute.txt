@@ -1,0 +1,1094 @@
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/appsettings.json
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/TeamHost.Web.staticwebassets.runtime.json
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/TeamHost.Web.exe
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/TeamHost.Web.deps.json
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/TeamHost.Web.runtimeconfig.json
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/TeamHost.Web.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/TeamHost.Web.pdb
+C:/Users/timer/source/repos/TeamHost/TeamHost/obj/Debug/net8.0/TeamHost.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/timer/source/repos/TeamHost/TeamHost/obj/Debug/net8.0/TeamHost.Web.AssemblyInfoInputs.cache
+C:/Users/timer/source/repos/TeamHost/TeamHost/obj/Debug/net8.0/TeamHost.Web.AssemblyInfo.cs
+C:/Users/timer/source/repos/TeamHost/TeamHost/obj/Debug/net8.0/TeamHost.Web.csproj.CoreCompileInputs.cache
+C:/Users/timer/source/repos/TeamHost/TeamHost/obj/Debug/net8.0/TeamHost.Web.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/timer/source/repos/TeamHost/TeamHost/obj/Debug/net8.0/TeamHost.Web.RazorAssemblyInfo.cache
+C:/Users/timer/source/repos/TeamHost/TeamHost/obj/Debug/net8.0/TeamHost.Web.RazorAssemblyInfo.cs
+C:/Users/timer/source/repos/TeamHost/TeamHost/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/timer/source/repos/TeamHost/TeamHost/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/timer/source/repos/TeamHost/TeamHost/obj/Debug/net8.0/staticwebassets/msbuild.TeamHost.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/timer/source/repos/TeamHost/TeamHost/obj/Debug/net8.0/staticwebassets/msbuild.build.TeamHost.Web.props
+C:/Users/timer/source/repos/TeamHost/TeamHost/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.TeamHost.Web.props
+C:/Users/timer/source/repos/TeamHost/TeamHost/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.TeamHost.Web.props
+C:/Users/timer/source/repos/TeamHost/TeamHost/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/timer/source/repos/TeamHost/TeamHost/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/timer/source/repos/TeamHost/TeamHost/obj/Debug/net8.0/scopedcss/bundle/TeamHost.Web.styles.css
+C:/Users/timer/source/repos/TeamHost/TeamHost/obj/Debug/net8.0/scopedcss/projectbundle/TeamHost.Web.bundle.scp.css
+C:/Users/timer/source/repos/TeamHost/TeamHost/obj/Debug/net8.0/TeamHost.Web.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/obj/Debug/net8.0/refint/TeamHost.Web.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/obj/Debug/net8.0/TeamHost.Web.pdb
+C:/Users/timer/source/repos/TeamHost/TeamHost/obj/Debug/net8.0/TeamHost.Web.genruntimeconfig.cache
+C:/Users/timer/source/repos/TeamHost/TeamHost/obj/Debug/net8.0/ref/TeamHost.Web.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/Humanizer.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.AspNetCore.Razor.Language.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.Build.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.Build.Framework.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.CodeAnalysis.Elfie.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.CodeAnalysis.Features.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.CodeAnalysis.Razor.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.DiaSymReader.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.DotNet.Scaffolding.Shared.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.NET.StringTools.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/dotnet-aspnet-codegenerator-design.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/Mono.TextTemplating.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/Newtonsoft.Json.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/NuGet.Common.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/NuGet.Configuration.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/NuGet.DependencyResolver.Core.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/NuGet.Frameworks.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/NuGet.LibraryModel.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/NuGet.Packaging.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/NuGet.ProjectModel.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/NuGet.Protocol.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/NuGet.Versioning.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/System.CodeDom.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/System.Composition.Convention.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/System.Composition.Hosting.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/System.Composition.Runtime.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/System.Composition.TypedParts.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/System.Drawing.Common.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/System.Reflection.MetadataLoadContext.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/System.Security.Permissions.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/System.Windows.Extensions.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/af/Humanizer.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/ar/Humanizer.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/az/Humanizer.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/bg/Humanizer.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/bn-BD/Humanizer.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/cs/Humanizer.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/da/Humanizer.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/de/Humanizer.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/el/Humanizer.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/es/Humanizer.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/fa/Humanizer.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/fi-FI/Humanizer.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/fr/Humanizer.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/fr-BE/Humanizer.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/he/Humanizer.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/hr/Humanizer.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/hu/Humanizer.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/hy/Humanizer.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/id/Humanizer.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/is/Humanizer.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/it/Humanizer.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/ja/Humanizer.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/ko-KR/Humanizer.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/ku/Humanizer.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/lv/Humanizer.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/ms-MY/Humanizer.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/mt/Humanizer.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/nb/Humanizer.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/nb-NO/Humanizer.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/nl/Humanizer.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/pl/Humanizer.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/pt/Humanizer.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/ro/Humanizer.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/ru/Humanizer.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/sk/Humanizer.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/sl/Humanizer.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/sr/Humanizer.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/sr-Latn/Humanizer.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/sv/Humanizer.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/th-TH/Humanizer.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/tr/Humanizer.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/uk/Humanizer.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/uz-Cyrl-UZ/Humanizer.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/uz-Latn-UZ/Humanizer.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/vi/Humanizer.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/zh-CN/Humanizer.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hans/Humanizer.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hant/Humanizer.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/runtimes/win/lib/net7.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Drawing.Common.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Windows.Extensions.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/obj/Debug/net8.0/TeamHost.Web.csproj.AssemblyReference.cache
+C:/Users/timer/source/repos/TeamHost/TeamHost/obj/Debug/net8.0/TeamHost.7B8D39FB.Up2Date
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/AutoMapper.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/Azure.Core.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/Azure.Identity.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/FluentValidation.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/FluentValidation.DependencyInjectionExtensions.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/MediatR.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/MediatR.Contracts.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/System.Memory.Data.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/System.Runtime.Caching.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/TeamHost.Application.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/TeamHost.Domain.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/TeamHost.Infrastructure.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/TeamHost.Persistence.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/TeamHost.Application.pdb
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/TeamHost.Infrastructure.pdb
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/TeamHost.Persistence.pdb
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/TeamHost.Domain.pdb
+C:/Users/timer/source/repos/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/appsettings.Development.json
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/appsettings.json
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/TeamHost.Web.staticwebassets.runtime.json
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/TeamHost.Web.exe
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/TeamHost.Web.deps.json
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/TeamHost.Web.runtimeconfig.json
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/TeamHost.Web.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/TeamHost.Web.pdb
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/AutoMapper.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/Azure.Core.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/Azure.Identity.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/FluentValidation.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/FluentValidation.DependencyInjectionExtensions.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/Humanizer.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/MediatR.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/MediatR.Contracts.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.AspNetCore.Razor.Language.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.Build.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.Build.Framework.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.CodeAnalysis.Elfie.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.CodeAnalysis.Features.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.CodeAnalysis.Razor.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.CodeAnalysis.Scripting.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.DiaSymReader.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.DotNet.Scaffolding.Shared.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.NET.StringTools.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/dotnet-aspnet-codegenerator-design.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/Mono.TextTemplating.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/Newtonsoft.Json.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/NuGet.Common.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/NuGet.Configuration.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/NuGet.DependencyResolver.Core.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/NuGet.Frameworks.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/NuGet.LibraryModel.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/NuGet.Packaging.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/NuGet.ProjectModel.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/NuGet.Protocol.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/NuGet.Versioning.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/System.CodeDom.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/System.Composition.Convention.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/System.Composition.Hosting.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/System.Composition.Runtime.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/System.Composition.TypedParts.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/System.Drawing.Common.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/System.Memory.Data.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/System.Reflection.MetadataLoadContext.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/System.Runtime.Caching.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/System.Security.Permissions.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/System.Windows.Extensions.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/af/Humanizer.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/ar/Humanizer.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/az/Humanizer.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/bg/Humanizer.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/bn-BD/Humanizer.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/cs/Humanizer.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/da/Humanizer.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/de/Humanizer.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/el/Humanizer.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/es/Humanizer.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/fa/Humanizer.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/fi-FI/Humanizer.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/fr/Humanizer.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/fr-BE/Humanizer.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/he/Humanizer.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/hr/Humanizer.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/hu/Humanizer.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/hy/Humanizer.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/id/Humanizer.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/is/Humanizer.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/it/Humanizer.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/ja/Humanizer.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/ko-KR/Humanizer.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/ku/Humanizer.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/lv/Humanizer.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/ms-MY/Humanizer.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/mt/Humanizer.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/nb/Humanizer.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/nb-NO/Humanizer.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/nl/Humanizer.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/pl/Humanizer.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/pt/Humanizer.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/ro/Humanizer.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/ru/Humanizer.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/sk/Humanizer.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/sl/Humanizer.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/sr/Humanizer.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/sr-Latn/Humanizer.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/sv/Humanizer.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/th-TH/Humanizer.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/tr/Humanizer.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/uk/Humanizer.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/uz-Cyrl-UZ/Humanizer.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/uz-Latn-UZ/Humanizer.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/vi/Humanizer.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/zh-CN/Humanizer.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hans/Humanizer.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hant/Humanizer.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/runtimes/win/lib/net7.0/Microsoft.Win32.SystemEvents.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Drawing.Common.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Security.Cryptography.ProtectedData.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Windows.Extensions.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/TeamHost.Application.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/TeamHost.Domain.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/TeamHost.Infrastructure.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/TeamHost.Persistence.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/TeamHost.Application.pdb
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/TeamHost.Infrastructure.pdb
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/TeamHost.Persistence.pdb
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/TeamHost.Domain.pdb
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/obj/Debug/net8.0/TeamHost.Web.csproj.AssemblyReference.cache
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/obj/Debug/net8.0/TeamHost.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/obj/Debug/net8.0/TeamHost.Web.AssemblyInfoInputs.cache
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/obj/Debug/net8.0/TeamHost.Web.AssemblyInfo.cs
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/obj/Debug/net8.0/TeamHost.Web.csproj.CoreCompileInputs.cache
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/obj/Debug/net8.0/TeamHost.Web.MvcApplicationPartsAssemblyInfo.cache
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/obj/Debug/net8.0/TeamHost.Web.RazorAssemblyInfo.cache
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/obj/Debug/net8.0/TeamHost.Web.RazorAssemblyInfo.cs
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/obj/Debug/net8.0/TeamHost.Web.sourcelink.json
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/obj/Debug/net8.0/staticwebassets.build.json
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/obj/Debug/net8.0/staticwebassets.development.json
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/obj/Debug/net8.0/staticwebassets/msbuild.TeamHost.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/obj/Debug/net8.0/staticwebassets/msbuild.build.TeamHost.Web.props
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.TeamHost.Web.props
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.TeamHost.Web.props
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/obj/Debug/net8.0/staticwebassets.pack.json
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/obj/Debug/net8.0/scopedcss/bundle/TeamHost.Web.styles.css
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/obj/Debug/net8.0/scopedcss/projectbundle/TeamHost.Web.bundle.scp.css
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/obj/Debug/net8.0/TeamHost.Web.csproj.CopyComplete
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/obj/Debug/net8.0/TeamHost.Web.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/obj/Debug/net8.0/refint/TeamHost.Web.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/obj/Debug/net8.0/TeamHost.Web.pdb
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/obj/Debug/net8.0/TeamHost.Web.genruntimeconfig.cache
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/obj/Debug/net8.0/ref/TeamHost.Web.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/Npgsql.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.UI.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Embedded.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.Extensions.Identity.Core.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.Extensions.Identity.Stores.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost/obj/Debug/net8.0/TeamHost.Web.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/appsettings.json
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/TeamHost.Web.staticwebassets.runtime.json
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/TeamHost.Web.exe
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/TeamHost.Web.deps.json
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/TeamHost.Web.runtimeconfig.json
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/TeamHost.Web.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/TeamHost.Web.pdb
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/AutoMapper.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/Azure.Core.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/Azure.Identity.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/FluentValidation.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/FluentValidation.DependencyInjectionExtensions.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/Humanizer.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/MediatR.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/MediatR.Contracts.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.UI.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.AspNetCore.Razor.Language.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.Build.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.Build.Framework.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.CodeAnalysis.Elfie.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.CodeAnalysis.Features.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.CodeAnalysis.Razor.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.DiaSymReader.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.DotNet.Scaffolding.Shared.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Embedded.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.Extensions.Identity.Core.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.Extensions.Identity.Stores.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.NET.StringTools.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/dotnet-aspnet-codegenerator-design.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/Mono.TextTemplating.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/Newtonsoft.Json.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/Npgsql.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/NuGet.Common.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/NuGet.Configuration.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/NuGet.DependencyResolver.Core.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/NuGet.Frameworks.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/NuGet.LibraryModel.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/NuGet.Packaging.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/NuGet.ProjectModel.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/NuGet.Protocol.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/NuGet.Versioning.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/System.CodeDom.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/System.Composition.Convention.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/System.Composition.Hosting.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/System.Composition.Runtime.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/System.Composition.TypedParts.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/System.Drawing.Common.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/System.Memory.Data.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/System.Reflection.MetadataLoadContext.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/System.Runtime.Caching.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/System.Security.Permissions.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/System.Windows.Extensions.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/af/Humanizer.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/ar/Humanizer.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/az/Humanizer.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/bg/Humanizer.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/bn-BD/Humanizer.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/cs/Humanizer.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/da/Humanizer.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/de/Humanizer.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/el/Humanizer.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/es/Humanizer.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/fa/Humanizer.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/fi-FI/Humanizer.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/fr/Humanizer.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/fr-BE/Humanizer.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/he/Humanizer.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/hr/Humanizer.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/hu/Humanizer.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/hy/Humanizer.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/id/Humanizer.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/is/Humanizer.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/it/Humanizer.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/ja/Humanizer.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/ko-KR/Humanizer.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/ku/Humanizer.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/lv/Humanizer.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/ms-MY/Humanizer.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/mt/Humanizer.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/nb/Humanizer.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/nb-NO/Humanizer.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/nl/Humanizer.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/pl/Humanizer.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/pt/Humanizer.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/ro/Humanizer.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/ru/Humanizer.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/sk/Humanizer.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/sl/Humanizer.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/sr/Humanizer.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/sr-Latn/Humanizer.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/sv/Humanizer.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/th-TH/Humanizer.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/tr/Humanizer.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/uk/Humanizer.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/uz-Cyrl-UZ/Humanizer.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/uz-Latn-UZ/Humanizer.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/vi/Humanizer.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/zh-CN/Humanizer.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hans/Humanizer.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hant/Humanizer.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/runtimes/win/lib/net7.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Drawing.Common.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Windows.Extensions.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/TeamHost.Application.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/TeamHost.Domain.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/TeamHost.Infrastructure.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/TeamHost.Persistence.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/TeamHost.Application.pdb
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/TeamHost.Infrastructure.pdb
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/TeamHost.Persistence.pdb
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/bin/Debug/net8.0/TeamHost.Domain.pdb
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/obj/Debug/net8.0/TeamHost.Web.csproj.AssemblyReference.cache
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/obj/Debug/net8.0/TeamHost.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/obj/Debug/net8.0/TeamHost.Web.AssemblyInfoInputs.cache
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/obj/Debug/net8.0/TeamHost.Web.AssemblyInfo.cs
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/obj/Debug/net8.0/TeamHost.Web.csproj.CoreCompileInputs.cache
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/obj/Debug/net8.0/TeamHost.Web.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/obj/Debug/net8.0/TeamHost.Web.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/obj/Debug/net8.0/TeamHost.Web.RazorAssemblyInfo.cache
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/obj/Debug/net8.0/TeamHost.Web.RazorAssemblyInfo.cs
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/obj/Debug/net8.0/staticwebassets/msbuild.TeamHost.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/obj/Debug/net8.0/staticwebassets/msbuild.build.TeamHost.Web.props
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.TeamHost.Web.props
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.TeamHost.Web.props
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/obj/Debug/net8.0/scopedcss/bundle/TeamHost.Web.styles.css
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/obj/Debug/net8.0/scopedcss/projectbundle/TeamHost.Web.bundle.scp.css
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/obj/Debug/net8.0/TeamHost.Web.csproj.CopyComplete
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/obj/Debug/net8.0/TeamHost.Web.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/obj/Debug/net8.0/refint/TeamHost.Web.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/obj/Debug/net8.0/TeamHost.Web.pdb
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/obj/Debug/net8.0/TeamHost.Web.genruntimeconfig.cache
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost/obj/Debug/net8.0/ref/TeamHost.Web.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/appsettings.Development.json
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/appsettings.json
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/TeamHost.Web.staticwebassets.runtime.json
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/TeamHost.Web
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/TeamHost.Web.deps.json
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/TeamHost.Web.runtimeconfig.json
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/TeamHost.Web.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/TeamHost.Web.pdb
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/AutoMapper.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/Azure.Core.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/Azure.Identity.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/FluentValidation.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/FluentValidation.DependencyInjectionExtensions.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/Humanizer.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/MediatR.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/MediatR.Contracts.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.UI.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.Build.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.Build.Framework.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.CodeAnalysis.Elfie.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.CodeAnalysis.Features.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.CodeAnalysis.Scripting.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.DiaSymReader.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.DotNet.Scaffolding.Shared.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.Extensions.Identity.Core.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.NET.StringTools.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/dotnet-aspnet-codegenerator-design.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/Npgsql.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/NuGet.Common.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/NuGet.Configuration.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/NuGet.DependencyResolver.Core.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/NuGet.Frameworks.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/NuGet.LibraryModel.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/NuGet.Packaging.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/NuGet.ProjectModel.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/NuGet.Protocol.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/NuGet.Versioning.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/System.CodeDom.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/System.Memory.Data.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/System.Reflection.MetadataLoadContext.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/System.Runtime.Caching.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/af/Humanizer.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/ar/Humanizer.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/az/Humanizer.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/bg/Humanizer.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/bn-BD/Humanizer.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/cs/Humanizer.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/da/Humanizer.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/de/Humanizer.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/el/Humanizer.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/es/Humanizer.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/fa/Humanizer.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/fi-FI/Humanizer.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/fr/Humanizer.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/fr-BE/Humanizer.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/he/Humanizer.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/hr/Humanizer.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/hu/Humanizer.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/hy/Humanizer.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/id/Humanizer.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/is/Humanizer.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/it/Humanizer.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/ja/Humanizer.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/ko-KR/Humanizer.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/ku/Humanizer.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/lv/Humanizer.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/ms-MY/Humanizer.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/mt/Humanizer.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/nb/Humanizer.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/nb-NO/Humanizer.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/nl/Humanizer.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/pl/Humanizer.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/pt/Humanizer.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/ro/Humanizer.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/ru/Humanizer.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/sk/Humanizer.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/sl/Humanizer.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/sr/Humanizer.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/sr-Latn/Humanizer.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/sv/Humanizer.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/th-TH/Humanizer.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/tr/Humanizer.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/uk/Humanizer.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/uz-Cyrl-UZ/Humanizer.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/uz-Latn-UZ/Humanizer.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/vi/Humanizer.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/zh-CN/Humanizer.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hans/Humanizer.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hant/Humanizer.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/runtimes/win/lib/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Drawing.Common.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Windows.Extensions.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/TeamHost.Application.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/TeamHost.Domain.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/TeamHost.Infrastructure.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/TeamHost.Persistence.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/TeamHost.Application.pdb
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/TeamHost.Infrastructure.pdb
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/TeamHost.Persistence.pdb
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/bin/Debug/net8.0/TeamHost.Domain.pdb
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/obj/Debug/net8.0/TeamHost.Web.csproj.AssemblyReference.cache
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/obj/Debug/net8.0/TeamHost.Web.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/obj/Debug/net8.0/TeamHost.Web.AssemblyInfoInputs.cache
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/obj/Debug/net8.0/TeamHost.Web.AssemblyInfo.cs
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/obj/Debug/net8.0/TeamHost.Web.csproj.CoreCompileInputs.cache
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/obj/Debug/net8.0/TeamHost.Web.MvcApplicationPartsAssemblyInfo.cs
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/obj/Debug/net8.0/TeamHost.Web.MvcApplicationPartsAssemblyInfo.cache
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/obj/Debug/net8.0/TeamHost.Web.RazorAssemblyInfo.cache
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/obj/Debug/net8.0/TeamHost.Web.RazorAssemblyInfo.cs
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/obj/Debug/net8.0/staticwebassets.build.json
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/obj/Debug/net8.0/staticwebassets.development.json
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/obj/Debug/net8.0/staticwebassets/msbuild.TeamHost.Web.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/obj/Debug/net8.0/staticwebassets/msbuild.build.TeamHost.Web.props
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.TeamHost.Web.props
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.TeamHost.Web.props
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/obj/Debug/net8.0/scopedcss/bundle/TeamHost.Web.styles.css
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/obj/Debug/net8.0/scopedcss/projectbundle/TeamHost.Web.bundle.scp.css
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/obj/Debug/net8.0/TeamHost.7B8D39FB.Up2Date
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/obj/Debug/net8.0/TeamHost.Web.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/obj/Debug/net8.0/refint/TeamHost.Web.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/obj/Debug/net8.0/TeamHost.Web.pdb
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/obj/Debug/net8.0/TeamHost.Web.genruntimeconfig.cache
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost/obj/Debug/net8.0/ref/TeamHost.Web.dll

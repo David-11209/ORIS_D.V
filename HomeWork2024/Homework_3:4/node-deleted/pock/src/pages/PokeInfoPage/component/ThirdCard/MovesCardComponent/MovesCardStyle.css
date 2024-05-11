@@ -1,0 +1,63 @@
+.rectangle {
+    width: 90%;
+    height: 90px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    margin-left: 6px;
+    margin-right: 6px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+.icon {
+    margin-top: 10px;
+    font-size: 24px;
+}
+
+.text {
+    margin-bottom: 20px;
+    font-size: 18px;
+    text-align: center;
+}
+
+@media only screen and (max-width: 320px) {
+    .rectangle {
+        margin-left: 0px;    
+        margin-right: 0px;
+        width: 90%;
+        height: 70px;
+    }
+  
+    .text {
+      font-size: 14px;
+      text-align: center;
+    }
+  
+    .icon {
+      margin-top: 10px;
+      font-size: 20px;
+    }
+}
+
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+  .rectangle {
+      margin-left: 0px;    
+      margin-right: 0px;
+      width: 90%;
+      height: 70px;
+  }
+
+  .text {
+    font-size: 14px;
+    text-align: center;
+  }
+
+  .icon {
+    margin-top: 10px;
+    font-size: 20px;
+  }
+}

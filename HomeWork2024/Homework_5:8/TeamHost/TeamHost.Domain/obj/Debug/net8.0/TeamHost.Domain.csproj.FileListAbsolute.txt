@@ -1,0 +1,49 @@
+C:/Users/timer/source/repos/TeamHost/TeamHost.Domain/bin/Debug/net8.0/TeamHost.Domain.deps.json
+C:/Users/timer/source/repos/TeamHost/TeamHost.Domain/bin/Debug/net8.0/TeamHost.Domain.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost.Domain/bin/Debug/net8.0/TeamHost.Domain.pdb
+C:/Users/timer/source/repos/TeamHost/TeamHost.Domain/obj/Debug/net8.0/TeamHost.Domain.csproj.AssemblyReference.cache
+C:/Users/timer/source/repos/TeamHost/TeamHost.Domain/obj/Debug/net8.0/TeamHost.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/timer/source/repos/TeamHost/TeamHost.Domain/obj/Debug/net8.0/TeamHost.Domain.AssemblyInfoInputs.cache
+C:/Users/timer/source/repos/TeamHost/TeamHost.Domain/obj/Debug/net8.0/TeamHost.Domain.AssemblyInfo.cs
+C:/Users/timer/source/repos/TeamHost/TeamHost.Domain/obj/Debug/net8.0/TeamHost.Domain.csproj.CoreCompileInputs.cache
+C:/Users/timer/source/repos/TeamHost/TeamHost.Domain/obj/Debug/net8.0/TeamHost.Domain.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost.Domain/obj/Debug/net8.0/refint/TeamHost.Domain.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost.Domain/obj/Debug/net8.0/TeamHost.Domain.pdb
+C:/Users/timer/source/repos/TeamHost/TeamHost.Domain/obj/Debug/net8.0/ref/TeamHost.Domain.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Domain/bin/Debug/net8.0/TeamHost.Domain.deps.json
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Domain/bin/Debug/net8.0/TeamHost.Domain.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Domain/bin/Debug/net8.0/TeamHost.Domain.pdb
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Domain/obj/Debug/net8.0/TeamHost.Domain.csproj.AssemblyReference.cache
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Domain/obj/Debug/net8.0/TeamHost.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Domain/obj/Debug/net8.0/TeamHost.Domain.AssemblyInfoInputs.cache
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Domain/obj/Debug/net8.0/TeamHost.Domain.AssemblyInfo.cs
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Domain/obj/Debug/net8.0/TeamHost.Domain.csproj.CoreCompileInputs.cache
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Domain/obj/Debug/net8.0/TeamHost.Domain.sourcelink.json
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Domain/obj/Debug/net8.0/TeamHost.Domain.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Domain/obj/Debug/net8.0/refint/TeamHost.Domain.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Domain/obj/Debug/net8.0/TeamHost.Domain.pdb
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Domain/obj/Debug/net8.0/ref/TeamHost.Domain.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost.Domain/bin/Debug/net8.0/TeamHost.Domain.deps.json
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost.Domain/bin/Debug/net8.0/TeamHost.Domain.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost.Domain/bin/Debug/net8.0/TeamHost.Domain.pdb
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost.Domain/obj/Debug/net8.0/TeamHost.Domain.csproj.AssemblyReference.cache
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost.Domain/obj/Debug/net8.0/TeamHost.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost.Domain/obj/Debug/net8.0/TeamHost.Domain.AssemblyInfoInputs.cache
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost.Domain/obj/Debug/net8.0/TeamHost.Domain.AssemblyInfo.cs
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost.Domain/obj/Debug/net8.0/TeamHost.Domain.csproj.CoreCompileInputs.cache
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost.Domain/obj/Debug/net8.0/TeamHost.Domain.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost.Domain/obj/Debug/net8.0/refint/TeamHost.Domain.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost.Domain/obj/Debug/net8.0/TeamHost.Domain.pdb
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost.Domain/obj/Debug/net8.0/ref/TeamHost.Domain.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost.Domain/bin/Debug/net8.0/TeamHost.Domain.deps.json
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost.Domain/bin/Debug/net8.0/TeamHost.Domain.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost.Domain/bin/Debug/net8.0/TeamHost.Domain.pdb
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost.Domain/obj/Debug/net8.0/TeamHost.Domain.csproj.AssemblyReference.cache
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost.Domain/obj/Debug/net8.0/TeamHost.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost.Domain/obj/Debug/net8.0/TeamHost.Domain.AssemblyInfoInputs.cache
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost.Domain/obj/Debug/net8.0/TeamHost.Domain.AssemblyInfo.cs
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost.Domain/obj/Debug/net8.0/TeamHost.Domain.csproj.CoreCompileInputs.cache
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost.Domain/obj/Debug/net8.0/TeamHost.Domain.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost.Domain/obj/Debug/net8.0/refint/TeamHost.Domain.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost.Domain/obj/Debug/net8.0/TeamHost.Domain.pdb
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost.Domain/obj/Debug/net8.0/ref/TeamHost.Domain.dll

@@ -1,0 +1,35 @@
+C:\Users\timer\source\repos\TeamHost\TeamHost.Shared\bin\Debug\net8.0\TeamHost.Shared.deps.json
+C:\Users\timer\source\repos\TeamHost\TeamHost.Shared\bin\Debug\net8.0\TeamHost.Shared.dll
+C:\Users\timer\source\repos\TeamHost\TeamHost.Shared\bin\Debug\net8.0\TeamHost.Shared.pdb
+C:\Users\timer\source\repos\TeamHost\TeamHost.Shared\obj\Debug\net8.0\TeamHost.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timer\source\repos\TeamHost\TeamHost.Shared\obj\Debug\net8.0\TeamHost.Shared.AssemblyInfoInputs.cache
+C:\Users\timer\source\repos\TeamHost\TeamHost.Shared\obj\Debug\net8.0\TeamHost.Shared.AssemblyInfo.cs
+C:\Users\timer\source\repos\TeamHost\TeamHost.Shared\obj\Debug\net8.0\TeamHost.Shared.csproj.CoreCompileInputs.cache
+C:\Users\timer\source\repos\TeamHost\TeamHost.Shared\obj\Debug\net8.0\TeamHost.Shared.dll
+C:\Users\timer\source\repos\TeamHost\TeamHost.Shared\obj\Debug\net8.0\refint\TeamHost.Shared.dll
+C:\Users\timer\source\repos\TeamHost\TeamHost.Shared\obj\Debug\net8.0\TeamHost.Shared.pdb
+C:\Users\timer\source\repos\TeamHost\TeamHost.Shared\obj\Debug\net8.0\ref\TeamHost.Shared.dll
+D:\Repo\OrisHomeworks\homework5\TeamHost\TeamHost\TeamHost.Shared\bin\Debug\net8.0\TeamHost.Shared.deps.json
+D:\Repo\OrisHomeworks\homework5\TeamHost\TeamHost\TeamHost.Shared\bin\Debug\net8.0\TeamHost.Shared.dll
+D:\Repo\OrisHomeworks\homework5\TeamHost\TeamHost\TeamHost.Shared\bin\Debug\net8.0\TeamHost.Shared.pdb
+D:\Repo\OrisHomeworks\homework5\TeamHost\TeamHost\TeamHost.Shared\obj\Debug\net8.0\TeamHost.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repo\OrisHomeworks\homework5\TeamHost\TeamHost\TeamHost.Shared\obj\Debug\net8.0\TeamHost.Shared.AssemblyInfoInputs.cache
+D:\Repo\OrisHomeworks\homework5\TeamHost\TeamHost\TeamHost.Shared\obj\Debug\net8.0\TeamHost.Shared.AssemblyInfo.cs
+D:\Repo\OrisHomeworks\homework5\TeamHost\TeamHost\TeamHost.Shared\obj\Debug\net8.0\TeamHost.Shared.csproj.CoreCompileInputs.cache
+D:\Repo\OrisHomeworks\homework5\TeamHost\TeamHost\TeamHost.Shared\obj\Debug\net8.0\TeamHost.Shared.sourcelink.json
+D:\Repo\OrisHomeworks\homework5\TeamHost\TeamHost\TeamHost.Shared\obj\Debug\net8.0\TeamHost.Shared.dll
+D:\Repo\OrisHomeworks\homework5\TeamHost\TeamHost\TeamHost.Shared\obj\Debug\net8.0\refint\TeamHost.Shared.dll
+D:\Repo\OrisHomeworks\homework5\TeamHost\TeamHost\TeamHost.Shared\obj\Debug\net8.0\TeamHost.Shared.pdb
+D:\Repo\OrisHomeworks\homework5\TeamHost\TeamHost\TeamHost.Shared\obj\Debug\net8.0\ref\TeamHost.Shared.dll
+C:\Users\irina\OneDrive\Рабочий стол\TeamHost\TeamHost.Shared\bin\Debug\net8.0\TeamHost.Shared.deps.json
+C:\Users\irina\OneDrive\Рабочий стол\TeamHost\TeamHost.Shared\bin\Debug\net8.0\TeamHost.Shared.dll
+C:\Users\irina\OneDrive\Рабочий стол\TeamHost\TeamHost.Shared\bin\Debug\net8.0\TeamHost.Shared.pdb
+C:\Users\irina\OneDrive\Рабочий стол\TeamHost\TeamHost.Shared\obj\Debug\net8.0\TeamHost.Shared.csproj.AssemblyReference.cache
+C:\Users\irina\OneDrive\Рабочий стол\TeamHost\TeamHost.Shared\obj\Debug\net8.0\TeamHost.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irina\OneDrive\Рабочий стол\TeamHost\TeamHost.Shared\obj\Debug\net8.0\TeamHost.Shared.AssemblyInfoInputs.cache
+C:\Users\irina\OneDrive\Рабочий стол\TeamHost\TeamHost.Shared\obj\Debug\net8.0\TeamHost.Shared.AssemblyInfo.cs
+C:\Users\irina\OneDrive\Рабочий стол\TeamHost\TeamHost.Shared\obj\Debug\net8.0\TeamHost.Shared.csproj.CoreCompileInputs.cache
+C:\Users\irina\OneDrive\Рабочий стол\TeamHost\TeamHost.Shared\obj\Debug\net8.0\TeamHost.Shared.dll
+C:\Users\irina\OneDrive\Рабочий стол\TeamHost\TeamHost.Shared\obj\Debug\net8.0\refint\TeamHost.Shared.dll
+C:\Users\irina\OneDrive\Рабочий стол\TeamHost\TeamHost.Shared\obj\Debug\net8.0\TeamHost.Shared.pdb
+C:\Users\irina\OneDrive\Рабочий стол\TeamHost\TeamHost.Shared\obj\Debug\net8.0\ref\TeamHost.Shared.dll

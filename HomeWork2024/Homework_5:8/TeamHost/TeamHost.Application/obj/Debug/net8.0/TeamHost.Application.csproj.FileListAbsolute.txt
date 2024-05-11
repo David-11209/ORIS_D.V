@@ -1,0 +1,61 @@
+C:/Users/timer/source/repos/TeamHost/TeamHost.Application/bin/Debug/net8.0/TeamHost.Application.deps.json
+C:/Users/timer/source/repos/TeamHost/TeamHost.Application/bin/Debug/net8.0/TeamHost.Application.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost.Application/bin/Debug/net8.0/TeamHost.Application.pdb
+C:/Users/timer/source/repos/TeamHost/TeamHost.Application/bin/Debug/net8.0/TeamHost.Domain.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost.Application/bin/Debug/net8.0/TeamHost.Domain.pdb
+C:/Users/timer/source/repos/TeamHost/TeamHost.Application/obj/Debug/net8.0/TeamHost.Application.csproj.AssemblyReference.cache
+C:/Users/timer/source/repos/TeamHost/TeamHost.Application/obj/Debug/net8.0/TeamHost.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/timer/source/repos/TeamHost/TeamHost.Application/obj/Debug/net8.0/TeamHost.Application.AssemblyInfoInputs.cache
+C:/Users/timer/source/repos/TeamHost/TeamHost.Application/obj/Debug/net8.0/TeamHost.Application.AssemblyInfo.cs
+C:/Users/timer/source/repos/TeamHost/TeamHost.Application/obj/Debug/net8.0/TeamHost.Application.csproj.CoreCompileInputs.cache
+C:/Users/timer/source/repos/TeamHost/TeamHost.Application/obj/Debug/net8.0/TeamHost.E105D446.Up2Date
+C:/Users/timer/source/repos/TeamHost/TeamHost.Application/obj/Debug/net8.0/TeamHost.Application.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost.Application/obj/Debug/net8.0/refint/TeamHost.Application.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost.Application/obj/Debug/net8.0/TeamHost.Application.pdb
+C:/Users/timer/source/repos/TeamHost/TeamHost.Application/obj/Debug/net8.0/ref/TeamHost.Application.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Application/bin/Debug/net8.0/TeamHost.Application.deps.json
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Application/bin/Debug/net8.0/TeamHost.Application.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Application/bin/Debug/net8.0/TeamHost.Application.pdb
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Application/bin/Debug/net8.0/TeamHost.Domain.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Application/bin/Debug/net8.0/TeamHost.Domain.pdb
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Application/obj/Debug/net8.0/TeamHost.Application.csproj.AssemblyReference.cache
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Application/obj/Debug/net8.0/TeamHost.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Application/obj/Debug/net8.0/TeamHost.Application.AssemblyInfoInputs.cache
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Application/obj/Debug/net8.0/TeamHost.Application.AssemblyInfo.cs
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Application/obj/Debug/net8.0/TeamHost.Application.csproj.CoreCompileInputs.cache
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Application/obj/Debug/net8.0/TeamHost.Application.sourcelink.json
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Application/obj/Debug/net8.0/TeamHost.Application.csproj.CopyComplete
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Application/obj/Debug/net8.0/TeamHost.Application.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Application/obj/Debug/net8.0/refint/TeamHost.Application.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Application/obj/Debug/net8.0/TeamHost.Application.pdb
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Application/obj/Debug/net8.0/ref/TeamHost.Application.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost.Application/bin/Debug/net8.0/TeamHost.Application.deps.json
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost.Application/bin/Debug/net8.0/TeamHost.Application.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost.Application/bin/Debug/net8.0/TeamHost.Application.pdb
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost.Application/bin/Debug/net8.0/TeamHost.Domain.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost.Application/bin/Debug/net8.0/TeamHost.Domain.pdb
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost.Application/obj/Debug/net8.0/TeamHost.Application.csproj.AssemblyReference.cache
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost.Application/obj/Debug/net8.0/TeamHost.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost.Application/obj/Debug/net8.0/TeamHost.Application.AssemblyInfoInputs.cache
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost.Application/obj/Debug/net8.0/TeamHost.Application.AssemblyInfo.cs
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost.Application/obj/Debug/net8.0/TeamHost.Application.csproj.CoreCompileInputs.cache
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost.Application/obj/Debug/net8.0/TeamHost.Application.csproj.CopyComplete
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost.Application/obj/Debug/net8.0/TeamHost.Application.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost.Application/obj/Debug/net8.0/refint/TeamHost.Application.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost.Application/obj/Debug/net8.0/TeamHost.Application.pdb
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost.Application/obj/Debug/net8.0/ref/TeamHost.Application.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost.Application/bin/Debug/net8.0/TeamHost.Application.deps.json
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost.Application/bin/Debug/net8.0/TeamHost.Application.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost.Application/bin/Debug/net8.0/TeamHost.Application.pdb
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost.Application/bin/Debug/net8.0/TeamHost.Domain.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost.Application/bin/Debug/net8.0/TeamHost.Domain.pdb
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost.Application/obj/Debug/net8.0/TeamHost.Application.csproj.AssemblyReference.cache
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost.Application/obj/Debug/net8.0/TeamHost.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost.Application/obj/Debug/net8.0/TeamHost.Application.AssemblyInfoInputs.cache
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost.Application/obj/Debug/net8.0/TeamHost.Application.AssemblyInfo.cs
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost.Application/obj/Debug/net8.0/TeamHost.Application.csproj.CoreCompileInputs.cache
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost.Application/obj/Debug/net8.0/TeamHost.E105D446.Up2Date
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost.Application/obj/Debug/net8.0/TeamHost.Application.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost.Application/obj/Debug/net8.0/refint/TeamHost.Application.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost.Application/obj/Debug/net8.0/TeamHost.Application.pdb
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost.Application/obj/Debug/net8.0/ref/TeamHost.Application.dll

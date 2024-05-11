@@ -1,0 +1,12 @@
+C:\Users\irina\OneDrive\Рабочий стол\TeamHost\TeamHost.Domain\bin\Release\net8.0\TeamHost.Domain.deps.json
+C:\Users\irina\OneDrive\Рабочий стол\TeamHost\TeamHost.Domain\bin\Release\net8.0\TeamHost.Domain.dll
+C:\Users\irina\OneDrive\Рабочий стол\TeamHost\TeamHost.Domain\bin\Release\net8.0\TeamHost.Domain.pdb
+C:\Users\irina\OneDrive\Рабочий стол\TeamHost\TeamHost.Domain\obj\Release\net8.0\TeamHost.Domain.csproj.AssemblyReference.cache
+C:\Users\irina\OneDrive\Рабочий стол\TeamHost\TeamHost.Domain\obj\Release\net8.0\TeamHost.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irina\OneDrive\Рабочий стол\TeamHost\TeamHost.Domain\obj\Release\net8.0\TeamHost.Domain.AssemblyInfoInputs.cache
+C:\Users\irina\OneDrive\Рабочий стол\TeamHost\TeamHost.Domain\obj\Release\net8.0\TeamHost.Domain.AssemblyInfo.cs
+C:\Users\irina\OneDrive\Рабочий стол\TeamHost\TeamHost.Domain\obj\Release\net8.0\TeamHost.Domain.csproj.CoreCompileInputs.cache
+C:\Users\irina\OneDrive\Рабочий стол\TeamHost\TeamHost.Domain\obj\Release\net8.0\TeamHost.Domain.dll
+C:\Users\irina\OneDrive\Рабочий стол\TeamHost\TeamHost.Domain\obj\Release\net8.0\refint\TeamHost.Domain.dll
+C:\Users\irina\OneDrive\Рабочий стол\TeamHost\TeamHost.Domain\obj\Release\net8.0\TeamHost.Domain.pdb
+C:\Users\irina\OneDrive\Рабочий стол\TeamHost\TeamHost.Domain\obj\Release\net8.0\ref\TeamHost.Domain.dll

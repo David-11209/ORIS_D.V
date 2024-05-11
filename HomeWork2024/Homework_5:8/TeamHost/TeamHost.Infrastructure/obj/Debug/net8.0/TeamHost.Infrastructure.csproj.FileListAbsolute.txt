@@ -1,0 +1,49 @@
+C:/Users/timer/source/repos/TeamHost/TeamHost.Infrastructure/bin/Debug/net8.0/TeamHost.Infrastructure.deps.json
+C:/Users/timer/source/repos/TeamHost/TeamHost.Infrastructure/bin/Debug/net8.0/TeamHost.Infrastructure.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost.Infrastructure/bin/Debug/net8.0/TeamHost.Infrastructure.pdb
+C:/Users/timer/source/repos/TeamHost/TeamHost.Infrastructure/obj/Debug/net8.0/TeamHost.Infrastructure.csproj.AssemblyReference.cache
+C:/Users/timer/source/repos/TeamHost/TeamHost.Infrastructure/obj/Debug/net8.0/TeamHost.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/timer/source/repos/TeamHost/TeamHost.Infrastructure/obj/Debug/net8.0/TeamHost.Infrastructure.AssemblyInfoInputs.cache
+C:/Users/timer/source/repos/TeamHost/TeamHost.Infrastructure/obj/Debug/net8.0/TeamHost.Infrastructure.AssemblyInfo.cs
+C:/Users/timer/source/repos/TeamHost/TeamHost.Infrastructure/obj/Debug/net8.0/TeamHost.Infrastructure.csproj.CoreCompileInputs.cache
+C:/Users/timer/source/repos/TeamHost/TeamHost.Infrastructure/obj/Debug/net8.0/TeamHost.Infrastructure.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost.Infrastructure/obj/Debug/net8.0/refint/TeamHost.Infrastructure.dll
+C:/Users/timer/source/repos/TeamHost/TeamHost.Infrastructure/obj/Debug/net8.0/TeamHost.Infrastructure.pdb
+C:/Users/timer/source/repos/TeamHost/TeamHost.Infrastructure/obj/Debug/net8.0/ref/TeamHost.Infrastructure.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Infrastructure/bin/Debug/net8.0/TeamHost.Infrastructure.deps.json
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Infrastructure/bin/Debug/net8.0/TeamHost.Infrastructure.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Infrastructure/bin/Debug/net8.0/TeamHost.Infrastructure.pdb
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Infrastructure/obj/Debug/net8.0/TeamHost.Infrastructure.csproj.AssemblyReference.cache
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Infrastructure/obj/Debug/net8.0/TeamHost.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Infrastructure/obj/Debug/net8.0/TeamHost.Infrastructure.AssemblyInfoInputs.cache
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Infrastructure/obj/Debug/net8.0/TeamHost.Infrastructure.AssemblyInfo.cs
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Infrastructure/obj/Debug/net8.0/TeamHost.Infrastructure.csproj.CoreCompileInputs.cache
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Infrastructure/obj/Debug/net8.0/TeamHost.Infrastructure.sourcelink.json
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Infrastructure/obj/Debug/net8.0/TeamHost.Infrastructure.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Infrastructure/obj/Debug/net8.0/refint/TeamHost.Infrastructure.dll
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Infrastructure/obj/Debug/net8.0/TeamHost.Infrastructure.pdb
+D:/Repo/OrisHomeworks/homework5/TeamHost/TeamHost/TeamHost.Infrastructure/obj/Debug/net8.0/ref/TeamHost.Infrastructure.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost.Infrastructure/bin/Debug/net8.0/TeamHost.Infrastructure.deps.json
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost.Infrastructure/bin/Debug/net8.0/TeamHost.Infrastructure.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost.Infrastructure/bin/Debug/net8.0/TeamHost.Infrastructure.pdb
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost.Infrastructure/obj/Debug/net8.0/TeamHost.Infrastructure.csproj.AssemblyReference.cache
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost.Infrastructure/obj/Debug/net8.0/TeamHost.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost.Infrastructure/obj/Debug/net8.0/TeamHost.Infrastructure.AssemblyInfoInputs.cache
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost.Infrastructure/obj/Debug/net8.0/TeamHost.Infrastructure.AssemblyInfo.cs
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost.Infrastructure/obj/Debug/net8.0/TeamHost.Infrastructure.csproj.CoreCompileInputs.cache
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost.Infrastructure/obj/Debug/net8.0/TeamHost.Infrastructure.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost.Infrastructure/obj/Debug/net8.0/refint/TeamHost.Infrastructure.dll
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost.Infrastructure/obj/Debug/net8.0/TeamHost.Infrastructure.pdb
+C:/Users/irina/OneDrive/Рабочий стол/TeamHost/TeamHost.Infrastructure/obj/Debug/net8.0/ref/TeamHost.Infrastructure.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost.Infrastructure/bin/Debug/net8.0/TeamHost.Infrastructure.deps.json
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost.Infrastructure/bin/Debug/net8.0/TeamHost.Infrastructure.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost.Infrastructure/bin/Debug/net8.0/TeamHost.Infrastructure.pdb
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost.Infrastructure/obj/Debug/net8.0/TeamHost.Infrastructure.csproj.AssemblyReference.cache
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost.Infrastructure/obj/Debug/net8.0/TeamHost.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost.Infrastructure/obj/Debug/net8.0/TeamHost.Infrastructure.AssemblyInfoInputs.cache
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost.Infrastructure/obj/Debug/net8.0/TeamHost.Infrastructure.AssemblyInfo.cs
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost.Infrastructure/obj/Debug/net8.0/TeamHost.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost.Infrastructure/obj/Debug/net8.0/TeamHost.Infrastructure.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost.Infrastructure/obj/Debug/net8.0/refint/TeamHost.Infrastructure.dll
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost.Infrastructure/obj/Debug/net8.0/TeamHost.Infrastructure.pdb
+/Users/kirillshelokov/Desktop/TeamHost/TeamHost.Infrastructure/obj/Debug/net8.0/ref/TeamHost.Infrastructure.dll

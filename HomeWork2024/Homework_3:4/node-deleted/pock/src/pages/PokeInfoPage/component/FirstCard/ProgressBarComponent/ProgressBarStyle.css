@@ -1,0 +1,27 @@
+.progressBar {
+    position: absolute;
+    width: 150px;
+    height: 100%;
+    opacity: 20%;
+    border-radius: 5px;
+}
+
+.progress {
+    position: absolute;
+    width: 49px;
+    height: 100%;
+    z-index: 1;
+    border-radius: 5px;
+}
+
+.Container {
+    position: relative;
+    width: 100px;
+    height: 8px;
+    border-radius: 5px;
+}
+
+.AbilityLabel {
+    margin-top: 20px;
+    margin-bottom: 2px;
+}

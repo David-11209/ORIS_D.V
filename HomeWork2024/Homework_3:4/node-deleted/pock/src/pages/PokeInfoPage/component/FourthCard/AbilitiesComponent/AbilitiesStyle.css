@@ -1,0 +1,30 @@
+.mainContainer3 {
+    display: flex;
+    flex-wrap: wrap;
+    box-shadow: 0px 0px 6px 2px gray;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    width: 30%;
+    margin-bottom: 20px;
+}
+
+.abilitiesContainer3 {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);;
+    display: flex;
+    justify-content: space-between;
+}
+
+@media only screen and (max-width: 320px) {
+    .mainContainer3 {
+        width: 80%;
+    }
+}
+
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+  .mainContainer3 {
+      width: 80%;
+  }
+}

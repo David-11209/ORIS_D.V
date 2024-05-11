@@ -1,0 +1,20 @@
+.movesLabel {
+    font-weight: 400;
+    margin-left: 15px;
+    height: 100%;
+    font-size: 32px;
+}
+
+@media only screen and (max-width: 320px) {
+    .movesLabel {
+        margin-left: 0px;
+        font-size: 28px;
+    }
+}
+
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+    .movesLabel {
+        margin-left: 0px;
+        font-size: 28px;
+    }
+}
